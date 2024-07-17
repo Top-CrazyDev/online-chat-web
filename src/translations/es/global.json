@@ -1,0 +1,278 @@
+{
+  "home": {
+    "description": "Chat web en línea gratuito",
+    "about": "Acerca de este proyecto",
+    "start": "Comienza a chatear",
+    "ready": "¿Todo listo?",
+    "more-info": "Más información",
+    "details": "Detalles del proyecto",
+    "questions": "¿Tienes alguna pregunta?",
+    "contact": "Contacto",
+    "overview": {
+      "chat": {
+        "title": "Chatea con tus amigos desde",
+        "bold": " cualquier dispositivo",
+        "description": "Solo necesitarás una cuenta de correo electrónico y conexión a Internet."
+      },
+      "share": {
+        "title": "Comparte",
+        "bold": " imágenes, GIFs, audios... ",
+        "title2": "¡Y mucho más!",
+        "description": "Tus mensajes se guardan en la nube, podrás verlos en cualquier momento."
+      },
+      "customize": {
+        "bold": "Personaliza ",
+        "title": "tu cuenta",
+        "description": "Puedes cambiar cómo otros usuarios pueden verte, y configurar la aplicación a tu gusto."
+      },
+      "secure": {
+        "title": "Tus chats privados...",
+        "bold": " ¡realmente lo son!",
+        "description": "Nadie más que tú y tus amigos podrá ver los mensajes que envíes."
+      },
+      "fast": {
+        "title": "Rápido y",
+        "bold": " fácil de usar",
+        "description": "Experiencia de usuario intuitiva y sencilla, para que puedas chatear de forma rápida y eficiente."
+      },
+      "open-source": {
+        "title": "Código abierto",
+        "description": "Puedes acceder al código de este proyecto para ver cómo funciona y contribuir a su desarrollo."
+      }
+    }
+  },
+  "login": {
+    "title": "Inicia sesión en tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "forgot": "¿Olvidaste tu contraseña?",
+    "need": "¿Todavía no tienes una cuenta?",
+    "signup": "Regístrate"
+  },
+  "signup": {
+    "title": "Crea tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirm": "Confirma tu contraseña",
+    "submit": "Crear Cuenta",
+    "already": "¿Ya tienes una cuenta?",
+    "login": "Inicia sesión",
+    "success": "Sigue el enlace que hemos enviado a tu dirección de correo electrónico para verificar tu cuenta."
+  },
+  "social-login": {
+    "google": "Continuar con Google",
+    "github": "Continuar con Github"
+  },
+  "forgot-password": {
+    "title": "¿Has olvidado tu contraseña?",
+    "description": "Introduce tu dirección de correo electrónico y te enviaremos las instrucciones para restablecer tu contraseña.",
+    "email": "Correo electrónico",
+    "submit": "Enviar correo de recuperación",
+    "back": "Volver al inicio de sesión",
+    "success": "Comprueba tu correo para restablecer tu contraseña."
+  },
+  "change-password": {
+    "title": "Restablece tu contraseña",
+    "security": {
+      "title": "Recomendaciones de seguridad:",
+      "1": "Al menos 8 caracteres (12+ recomendado).",
+      "2": "Debería contener mayúsculas y minúsculas, números y caracteres especiales.",
+      "3": "No introduzcas tu nombre, dirección de correo electrónico, nombre de usuario o cualquier otra información personal como contraseña."
+    },
+    "password": "Nueva Contraseña",
+    "confirm": "Confirma tu contraseña",
+    "submit": "Reestablecer contraseña",
+    "start": "Comienza a chatear",
+    "success": "Tu contraseña ha sido restablecida correctamente.",
+    "error": "No se ha podido restablecer tu contraseña."
+  },
+  "header": {
+    "logout": "Cerrar sesión",
+    "account": "Tu Cuenta"
+  },
+  "create-chat": {
+    "friend-code": "Código de usuario...",
+    "submit": "Crear chat",
+    "clipboard": "Copia tu código de usuario",
+    "clipboard-success": "Código copiado!"
+  },
+  "create-group": {
+    "name": "Nombre del grupo...",
+    "submit": "Crear grupo"
+  },
+  "chat": {
+    "select-channel": {
+      "title": "Selecciona un canal para comenzar a chatear",
+      "description": "Puedes crear un nuevo canal o unirte a uno ya existente."
+    },
+    "empty": {
+      "title": "No hay mensajes",
+      "description": "Comienza la conversación y tus mensajes aparecerán aquí."
+    }
+  },
+  "chat-input": {
+    "placeholder": "Escribe un mensaje..."
+  },
+  "channels": {
+    "chats": "Chats",
+    "groups": "Grupos"
+  },
+  "chats": {
+    "empty": {
+      "title": "Todavía no has creado ningún chat",
+      "description": "Crea uno y comienza a chatear con tus amigos."
+    },
+    "errors": {
+      "get": "No se han podido cargar los chat.",
+      "create": "No se ha podido crear el chat."
+    },
+    "search": {
+      "placeholder": "Busca chats...",
+      "no-results": "No se han encontrado chats con"
+    }
+  },
+  "groups": {
+    "empty": {
+      "title": "Todavía no has creado ningún grupo",
+      "description": "Crea uno y comienza a chatear con tus amigos."
+    },
+    "errors": {
+      "get": "No se han podido cargar los grupos.",
+      "create": "No se ha podido crear el grupo."
+    },
+    "search": {
+      "placeholder": "Busca grupos...",
+      "no-results": "No se han encontrado grupos con"
+    }
+  },
+  "messages": {
+    "errors": {
+      "get": "No se han podido cargar los mensajes.",
+      "send": "No se ha podido enviar el mensaje."
+    }
+  },
+  "gifs": {
+    "placeholder": "Busca GIF's...",
+    "error": "No se ha podido cargar los GIF's",
+    "no-results": {
+      "title": "No se han encontrado resultados",
+      "description": "Prueba otra vez con diferentes palabras."
+    }
+  },
+  "page-not-found": {
+    "title": "¡Ups! Página no encontrada",
+    "description": "Parece que la página que estás buscando no existe.",
+    "recommendation": "¿Estás seguro de que has escrito bien la URL?",
+    "back": "Volver al inicio"
+  },
+  "validation": {
+    "email-error": "Introduce tu dirección de correo electrónico.",
+    "empty-error": "No pueden haber campos vacíos.",
+    "password-match-error": "Las contraseñas no coinciden."
+  },
+  "translation": {
+    "change-error": "No se ha podido cambiar el idioma.",
+    "title": "Cambiar idioma",
+    "en": "Inglés",
+    "es": "Español",
+    "fr": "Francés"
+  },
+  "dark-mode": {
+    "title": "Cambiar modo oscuro"
+  },
+  "font-size": {
+    "title": "Cambiar tamaño de letra",
+    "normal": "Normal",
+    "large": "Grande",
+    "extra-large": "Extra grande"
+  },
+  "account": {
+    "title": "Tu Cuenta",
+    "description": "Cambia la configuración de tu cuenta y cómo otros usuarios pueden verte.",
+    "full-name": "Nombre completo",
+    "email": "Correo electrónico",
+    "error": "No se ha podido cargar la información de tu cuenta.",
+    "reset": "Reestablecer contraseña",
+    "save": "Guardar cambios",
+    "update-error": "No se han podido actualizar los detalles de tu cuenta.",
+    "update-success": "Tu cuenta se ha actualizado correctamente.",
+    "connect": {
+      "title": "Conecta con tus amigos",
+      "description": "Aquí tienes algunos métodos para conectar con tus amigos y comenzar a chatear.",
+      "code": "Código de invitación",
+      "link": "Enlace de invitación",
+      "code-copy": "Copia tu código de invitación",
+      "link-copy": "Copia tu enlace de invitación",
+      "copy-success": "¡Código copiado!"
+    }
+  },
+  "invite": {
+    "title": "Comienza una nueva conversación",
+    "description": "te ha invitado a unirte a un nuevo canal y comenzar a chatear.",
+    "accept": "Aceptar invitación",
+    "back": "Volver al inicio",
+    "profile-error": "¡Ups! Este usuario no existe.",
+    "accept-error": "No se ha podido aceptar la invitación."
+  },
+  "message": {
+    "media-error": "No se ha podido cargar el contenido."
+  },
+  "channel-preview": {
+    "own": "Tú"
+  },
+  "group-info": {
+    "error": "No se han podido cargar los detalles de este grupo.",
+    "not-found": "¡Ups! Este grupo no existe.",
+    "back": "Volver a grupos",
+    "recommendation": "Quizá el grupo ha sido eliminado o no tienes permisos para verlo.",
+    "created": "Creado el",
+    "leave": "Abandonar grupo",
+    "delete": "Eliminar grupo"
+  },
+  "group-participants": {
+    "error": "No se han podido cargar los participantes del grupo.",
+    "try-again": "Inténtalo de nuevo más tarde.",
+    "title": "Participantes",
+    "remove": "Eliminar"
+  },
+  "group-actions": {
+    "leave": {
+      "title": "¿Estás seguro de que quieres abandonar este grupo?",
+      "info": "No podrás volver a participar en este grupo, a menos que el administrador te vuelva a añadir.",
+      "cancel": "Cancelar",
+      "leave": "Abandonar grupo"
+    },
+    "delete": {
+      "title": "¿Estás seguro de que quieres eliminar este grupo?",
+      "info": "Este grupo y todos sus mensajes serán eliminados",
+      "info2": "permanentemente.",
+      "info3": "",
+      "cancel": "Cancelar",
+      "delete": "Eliminar grupo"
+    }
+  },
+  "chat-actions": {
+    "delete": {
+      "title": "¿Estas seguro de que quieres eliminar este chat?",
+      "info": "Este chat y todos sus mensajes serán eliminados",
+      "info2": "permanentemente.",
+      "info3": "",
+      "cancel": "Cancelar",
+      "delete": "Eliminar chat",
+      "button": "Eliminar"
+    }
+  },
+  "add-participant": {
+    "title": "Añadir al grupo",
+    "placeholder": "Código de usuario...",
+    "error": "No se ha podido añadir al participante al grupo.",
+    "success": "El participante se ha añadido correctamente."
+  },
+  "remove-participant": {
+    "title": "¿Estás seguro de que quieres eliminar a este participante?",
+    "info": "Este usuario no podrá volver a unirse al grupo a menos que le vuelvas a añadir.",
+    "cancel": "Cancelar",
+    "remove": "Eliminar participante"
+  }
+}

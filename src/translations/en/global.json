@@ -1,0 +1,278 @@
+{
+  "home": {
+    "description": "Online free web chat",
+    "about": "About this project",
+    "start": "Start chatting",
+    "ready": "Are you ready?",
+    "more-info": "More information",
+    "details": "Proyect details",
+    "questions": "Any questions?",
+    "contact": "Contact",
+    "overview": {
+      "chat": {
+        "title": "Chat with your friends from",
+        "bold": " any device",
+        "description": "You will only need an email account and Internet connection."
+      },
+      "share": {
+        "title": "Share",
+        "bold": " images, GIF's, audios... ",
+        "title2": "And more!",
+        "description": "Your messages are saved in the cloud, you can access them at any time."
+      },
+      "customize": {
+        "bold": "Customize ",
+        "title": "your account",
+        "description": "You can change how other users can see you, and customize the application as you wish."
+      },
+      "secure": {
+        "title": "Your private chats...",
+        "bold": " really are!",
+        "description": "No one other than you and your friends can see the messages you send."
+      },
+      "fast": {
+        "title": "Fast and",
+        "bold": " easy to use",
+        "description": "Simple and intuitive user experience, so you can chat quickly and efficiently."
+      },
+      "open-source": {
+        "title": "Open source",
+        "description": "You can access the code of this project to see how it works and contribute to its development."
+      }
+    }
+  },
+  "login": {
+    "title": "Login to your account",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "forgot": "Forgot password?",
+    "need": "Need an account?",
+    "signup": "Sign up"
+  },
+  "signup": {
+    "title": "Create your account",
+    "email": "Email",
+    "password": "Password",
+    "confirm": "Confirm password",
+    "submit": "Create Account",
+    "already": "Already have an account?",
+    "login": "Log In",
+    "success": "Please follow the link we have sent to your email to verify your account."
+  },
+  "social-login": {
+    "google": "Sign In with Google",
+    "github": "Sign in with Github"
+  },
+  "forgot-password": {
+    "title": "Forgot your password?",
+    "description": "Enter your email address and we will send you instructions to reset your password.",
+    "email": "Email",
+    "submit": "Send Reset Email",
+    "back": "Back to login",
+    "success": "Please check your email to reset your password."
+  },
+  "change-password": {
+    "title": "Reset your password",
+    "security": {
+      "title": "Security recomendations:",
+      "1": "At least 8 characters long (12+ recommended).",
+      "2": "Contains uppercase and lowercase letters, numbers and special characters.",
+      "3": "Does not match or contain your name, email, username or other personal information."
+    },
+    "password": "New password",
+    "confirm": "Confirm password",
+    "submit": "Reset password",
+    "start": "Start chatting",
+    "success": "Your password has been reset successfully.",
+    "error": "Failed to reset your password."
+  },
+  "header": {
+    "logout": "Logout",
+    "account": "Your Account"
+  },
+  "create-chat": {
+    "friend-code": "Enter user code...",
+    "submit": "Create chat",
+    "clipboard": "Copy your user code",
+    "clipboard-success": "Copied to clipboard!"
+  },
+  "create-group": {
+    "name": "Group name...",
+    "submit": "Create group"
+  },
+  "chat": {
+    "select-channel": {
+      "title": "Select a channel to start chatting",
+      "description": "You can create a new channel or join an existing one."
+    },
+    "empty": {
+      "title": "No messages yet",
+      "description": "Start the conversation to see your messages here."
+    }
+  },
+  "chat-input": {
+    "placeholder": "Type a message.."
+  },
+  "channels": {
+    "chats": "Chats",
+    "groups": "Groups"
+  },
+  "chats": {
+    "empty": {
+      "title": "You have not created any channel yet",
+      "description": "Create one and start chatting with your friends."
+    },
+    "errors": {
+      "get": "Failed to load channels.",
+      "create": "Failed to create channel."
+    },
+    "search": {
+      "placeholder": "Search chats...",
+      "no-results": "No chats found with"
+    }
+  },
+  "groups": {
+    "empty": {
+      "title": "You have not created any group yet",
+      "description": "Create one and start chatting with your friends."
+    },
+    "errors": {
+      "get": "Failed to load groups.",
+      "create": "Failed to create group."
+    },
+    "search": {
+      "placeholder": "Search groups...",
+      "no-results": "No groups found with"
+    }
+  },
+  "messages": {
+    "errors": {
+      "get": "Failed to load messages.",
+      "send": "Failed to send message."
+    }
+  },
+  "gifs": {
+    "placeholder": "Search GIF's...",
+    "error": "Failed to load trending GIF's",
+    "no-results": {
+      "title": "No results found",
+      "description": "Try again with other keywords."
+    }
+  },
+  "page-not-found": {
+    "title": "Oops! Page not found",
+    "description": "Sorry, the page you are looking for does not exist.",
+    "recommendation": "Are you sure you typed the correct URL?",
+    "back": "Back to home"
+  },
+  "validation": {
+    "email-error": "Please enter your email address.",
+    "empty-error": "There are empty fields.",
+    "password-match-error": "Passwords do not match."
+  },
+  "translation": {
+    "change-error": "Failed to change language.",
+    "title": "Change language",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French"
+  },
+  "dark-mode": {
+    "title": "Toggle dark mode"
+  },
+  "font-size": {
+    "title": "Change font size",
+    "normal": "Normal",
+    "large": "Large",
+    "extra-large": "Extra large"
+  },
+  "account": {
+    "title": "Your Account",
+    "description": "Change your account settings and how other users see you.",
+    "full-name": "Full name",
+    "email": "Email",
+    "error": "Failed to load your account details.",
+    "reset": "Reset password",
+    "save": "Save changes",
+    "update-error": "Failed to update your account details.",
+    "update-success": "Your account has been updated succesfully.",
+    "connect": {
+      "title": "Connect with your friends",
+      "description": "These are some methods to connect with your friends and start chatting.",
+      "code": "Invite code",
+      "link": "Invitation link",
+      "code-copy": "Copy invite code",
+      "link-copy": "Copy invitation link",
+      "copy-success": "Copied to clipboard!"
+    }
+  },
+  "invite": {
+    "title": "Start a new conversation",
+    "description": "has invited you to join a new channel and start chatting.",
+    "accept": "Accept invitation",
+    "back": "Back to home",
+    "profile-error": "Oops! This user does not exist.",
+    "accept-error": "Failed to accept invitation."
+  },
+  "message": {
+    "media-error": "Failed to load media."
+  },
+  "channel-preview": {
+    "own": "You"
+  },
+  "group-info": {
+    "error": "Failed to load group details.",
+    "not-found": "Oops! This group does not exist.",
+    "back": "Back to groups",
+    "recommendation": "Perhaps the group has been deleted or you do not have permissions to view it.",
+    "created": "Created on",
+    "leave": "Leave group",
+    "delete": "Delete group"
+  },
+  "group-participants": {
+    "error": "Failed to load group participants.",
+    "try-again": "Try again later.",
+    "title": "Participants",
+    "remove": "Remove"
+  },
+  "group-actions": {
+    "leave": {
+      "title": "Are you sure you want to leave this group?",
+      "info": "You will not be able to join this group again unless you are invited by the group owner.",
+      "cancel": "Cancel",
+      "leave": "Leave group"
+    },
+    "delete": {
+      "title": "Are you sure you want to delete this group?",
+      "info": "This group and all its messages will be",
+      "info2": "permanently",
+      "info3": "deleted.",
+      "cancel": "Cancel",
+      "delete": "Delete group"
+    }
+  },
+  "chat-actions": {
+    "delete": {
+      "title": "Are you sure you want to delete this chat?",
+      "info": "This chats and all its messages will be",
+      "info2": "permanently",
+      "info3": "deleted.",
+      "cancel": "Cancel",
+      "delete": "Delete chat",
+      "button": "Delete"
+    }
+  },
+  "add-participant": {
+    "title": "Add to group",
+    "placeholder": "Enter user code...",
+    "error": "Failed to add participant to group",
+    "success": "The participant has been successfully added to the group"
+  },
+  "remove-participant": {
+    "title": "Are you sure you want to remove this participant?",
+    "info": "This user will not be able to join this group again unless you add him again.",
+    "cancel": "Cancel",
+    "remove": "Remove participant"
+  }
+}

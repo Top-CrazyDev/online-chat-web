@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #164e632d;
+}
+::-webkit-scrollbar-thumb {
+  background: #0e7490;
+}
